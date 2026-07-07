@@ -1,0 +1,6 @@
+{
+  "name": "CashlessTeam-JobTracker",
+  "description": "Workspace Monitoring Kerja Realtime dan Multidevice untuk koordinasi tim Cashless.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
